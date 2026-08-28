@@ -1,9 +1,12 @@
 # Liam Kinnally
 
-Information Technology student at the University of Central Florida.
+Information Technology student at the University of Central Florida with an interest in software engineering, machine learning, and software testing.
 
-Interested in software engineering, machine learning, and software testing, and currently seeking internship opportunities in software engineering and software QA.
+**B.S. Information Technology — Expected August 2027**
+
+Currently seeking software engineering and software QA internship opportunities.
 
 ## Technologies
 
-Python · Java · C · SQL · Git
+**Languages:** Python · Java · C · SQL  
+**Tools & Libraries:** Git · scikit-learn · pandas · SQLAlchemy · pytest · GitHub Actions
