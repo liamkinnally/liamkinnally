@@ -4,7 +4,7 @@ Information Technology student at the University of Central Florida with an inte
 
 **B.S. Information Technology — Expected August 2027**
 
-Currently seeking software engineering and software QA internship opportunities.
+Currently seeking software engineering, software QA, and machine learning/AI internship opportunities.
 
 ## Technologies
 
