@@ -9,4 +9,4 @@ Currently seeking software engineering, software QA, and machine learning/AI int
 ## Technologies
 
 **Languages:** Python · Java · C · SQL · TypeScript · JavaScript 
-**Tools & Libraries:** Git · scikit-learn · pandas · SQLAlchemy · pytest · GitHub Actions
+**Tools & Libraries:** Git · Docker · scikit-learn · pandas · SQLAlchemy · pytest · GitHub Actions · Vercel
