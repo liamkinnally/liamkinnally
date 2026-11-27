@@ -26,6 +26,14 @@ My work spans agent orchestration, backend development, model evaluation, and pe
 - **[Aerial Inference Benchmark](https://github.com/liamkinnally/aerial-inference-bench)** — Controlled computer vision experiments comparing inference speed, accuracy, model size, and detection-message bandwidth.
 - **[NBA Player Stat Prediction](https://github.com/liamkinnally/nba-scoring-model)** — Python machine learning pipeline with historical data ingestion, feature engineering, chronological validation, and model evaluation.
 
+## Preprint
+
+**A proof of Written on the Wall II Conjecture 261 (2026)**
+
+Proves a Graffiti.pc conjecture listed as open in *Written on the Wall II*. For every finite simple connected graph $G$ with at least two vertices, its total domination number satisfies $\gamma_t(G) \ge 2\lvert N_G(S) \setminus S\rvert / L(G)$, where $S$ is the set of degree-two vertices and $L(G)$ is the maximum number of leaves in a spanning tree of $G$. Palomar verified the Lean 4 formalization.
+
+[Preprint](https://doi.org/10.5281/zenodo.24607995) · [Lean formalization](https://github.com/liamkinnally/math)
+
 ## Current Work
 
 - **[Lillia](https://github.com/liamkinnally/lillia-overview)** — Developing an AI coding-agent orchestrator with revision-aware review, validation, and persistent workflow history.
